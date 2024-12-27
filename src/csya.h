@@ -1,4 +1,4 @@
-/*
+п»ї/*
 	https://github.com/TolyaGosuslugi/Csya
 	MIT License
 
@@ -23,22 +23,22 @@
 	SOFTWARE.
 */
 
-#define пизди printf
-#define целый int
-#define нихуя 0
-#define пиздюлина return
-#define нихуясебе void
-#define спиздануть std::cout
-#define конч std::endl
-#define пятёрка 42
-#define влево <<
-#define стричка std::string
-#define есчо if
-#define или else
-#define конь const
-#define чара char
-#define чопокай while
-#define внатуре true
-#define невнатуре false
-#define спиздитьлинию std::getline
-#define босин std::cin
+#define РїРёР·РґРё printf
+#define С†РµР»С‹Р№ int
+#define РЅРёС…СѓСЏ 0
+#define РїРёР·РґСЋР»РёРЅР° return
+#define РЅРёС…СѓСЏСЃРµР±Рµ void
+#define СЃРїРёР·РґР°РЅСѓС‚СЊ std::cout
+#define РєРѕРЅС‡ std::endl
+#define РїСЏС‚С‘СЂРєР° 42
+#define РІР»РµРІРѕ <<
+#define СЃС‚СЂРёС‡РєР° std::string
+#define РµСЃС‡Рѕ if
+#define РёР»Рё else
+#define РєРѕРЅСЊ const
+#define С‡Р°СЂР° char
+#define С‡РѕРїРѕРєР°Р№ while
+#define РІРЅР°С‚СѓСЂРµ true
+#define РЅРµРІРЅР°С‚СѓСЂРµ false
+#define СЃРїРёР·РґРёС‚СЊР»РёРЅРёСЋ std::getline
+#define Р±РѕСЃРёРЅ std::cin
