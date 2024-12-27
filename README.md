@@ -1,2 +1,2 @@
 ## Csya(СиСя)
-#### [пример кода]() || [список команд]()
+#### [пример кода](https://github.com/TolyaGosuslugi/Csya/blob/main/examples) || [список команд](https://github.com/TolyaGosuslugi/Csya/blob/main/comms.md)
