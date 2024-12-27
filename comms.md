@@ -63,5 +63,25 @@
       <td>char</td>
       <td>чара</td>
     </tr>
+	<tr>
+	  <td>while</td>
+	  <td>чопокай</td>
+	</tr>
+	<tr>
+	  <td>true</td>
+	  <td>внатуре</td>
+	</tr>
+	<tr>
+	  <td>false</td>
+	  <td>невнатуре</td>
+	</tr>
+	<tr>
+	  <td>getline</td>
+	  <td>спиздитьлинию</td>
+	</tr>
+	<tr>
+	  <td>cin</td>
+	  <td>босин</td>
+	</tr>
   </tbody>
 </table>

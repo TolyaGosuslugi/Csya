@@ -37,3 +37,8 @@
 #define или else
 #define конь const
 #define чара char
+#define чопокай while
+#define внатуре true
+#define невнатуре false
+#define спиздитьлинию std::getline
+#define босин std::cin
