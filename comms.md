@@ -83,5 +83,13 @@
 	  <td>cin</td>
 	  <td>босин</td>
 	</tr>
+    <tr>
+      <td>char*</td>
+      <td>стричка_провославный</td>
+    </tr>
+    <tr>
+      <td><stdio.h></td>
+      <td>пизда</td>
+    </tr>
   </tbody>
 </table>

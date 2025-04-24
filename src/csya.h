@@ -42,3 +42,5 @@
 #define невнатуре false
 #define спиздитьлинию std::getline
 #define босин std::cin
+#define стричка_провославный char*
+#define пизда <stdio.h>
