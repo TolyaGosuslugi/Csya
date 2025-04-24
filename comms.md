@@ -88,7 +88,7 @@
       <td>стричка_провославный</td>
     </tr>
     <tr>
-      <td><stdio.h></td>
+      <td>&lt;stdio.h&gt;</td>
       <td>пизда</td>
     </tr>
   </tbody>
