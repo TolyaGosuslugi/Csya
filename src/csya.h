@@ -23,24 +23,16 @@
 	SOFTWARE.
 */
 
-#define пизди printf
-#define целый int
-#define нихуя 0
-#define пиздюлина return
-#define нихуясебе void
-#define спиздануть std::cout
-#define конч std::endl
-#define пятёрка 42
-#define влево <<
-#define стричка std::string
-#define есчо if
-#define или else
-#define конь const
-#define чара char
-#define чопокай while
+#define пиздарезка int main(int argc, char *argv[])
+#define стричка_провославный char*
+#define константин const
+#define интеграция int
+#define сделано_в_китае return 0
+#define маканчик void
+#define вотбычотаспиздануть printf
 #define внатуре true
 #define невнатуре false
-#define спиздитьлинию std::getline
-#define босин std::cin
-#define стричка_провославный char*
-#define пизда <stdio.h>
+#define гей if
+#define натурал else
+#define трансформер else if
+#define съебалсянахуй exit

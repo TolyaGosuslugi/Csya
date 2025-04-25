@@ -8,88 +8,56 @@
   </thead>
   <tbody>
     <tr>
-      <td>printf</td>
-      <td>пизди</td>
-    </tr>
-    <tr>
-      <td>int</td>
-      <td>целый</td>
-    </tr>
-    <tr>
-      <td>0</td>
-      <td>нихуя</td>
-    </tr>
-    <tr>
-      <td>return</td>
-      <td>пиздюлина</td>
-    </tr>
-    <tr>
-      <td>void</td>
-      <td>нихуясебе</td>
-    </tr>
-    <tr>
-      <td>cout</td>
-      <td>спиздануть</td>
-    </tr>
-    <tr>
-      <td><<</td>
-      <td>влево</td>
-    </tr>
-    <tr>
-      <td>endl</td>
-      <td>конч</td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>пятёрка</td>
-    </tr>
-    <tr>
-      <td>string</td>
-      <td>стричка</td>
-    </tr>
-    <tr>
-      <td>if</td>
-      <td>есчо</td>
-    </tr>
-    <tr>
-      <td>else</td>
-      <td>или</td>
-    </tr>
-    <tr>
-      <td>const</td>
-      <td>конь</td>
-    </tr>
-    <tr>
-      <td>char</td>
-      <td>чара</td>
-    </tr>
-	<tr>
-	  <td>while</td>
-	  <td>чопокай</td>
-	</tr>
-	<tr>
-	  <td>true</td>
-	  <td>внатуре</td>
-	</tr>
-	<tr>
-	  <td>false</td>
-	  <td>невнатуре</td>
-	</tr>
-	<tr>
-	  <td>getline</td>
-	  <td>спиздитьлинию</td>
-	</tr>
-	<tr>
-	  <td>cin</td>
-	  <td>босин</td>
-	</tr>
-    <tr>
       <td>char*</td>
       <td>стричка_провославный</td>
     </tr>
     <tr>
-      <td><stdio.h></td>
-      <td>пизда</td>
+      <td>const</td>
+      <td>константин</td>
+    </tr>
+    <tr>
+      <td>const</td>
+      <td>константин</td>
+    </tr>
+    <tr>
+      <td>int</td>
+      <td>интеграция</td>
+    </tr>
+    <tr>
+      <td>return 0</td>
+      <td>сделано_в_китае</td>
+    </tr>
+    <tr>
+      <td>void</td>
+      <td>маканчик</td>
+    </tr>
+    <tr>
+      <td>printf</td>
+      <td>вотбычотаспиздануть</td>
+    </tr>
+    <tr>
+      <td>true</td>
+      <td>внатуре</td>
+    </tr>
+    <tr>
+      <td>false</td>
+      <td>невнатуре</td>
+    </tr>
+    <tr>
+      <td>if</td>
+      <td>гей</td>
+    </tr>
+    <tr>
+      <td>else</td>
+      <td>натурал</td>
+    </tr>
+    <tr>
+      <td>else if</td>
+      <td>трансформер</td>
+    </tr>
+    <tr>
+      <td>exit</td>
+      <td>съебалсянахуй</td>
     </tr>
   </tbody>
 </table>
