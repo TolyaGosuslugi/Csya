@@ -36,3 +36,6 @@
 #define натурал else
 #define трансформер else if
 #define съебалсянахуй exit
+#define кофе malloc
+#define латте calloc
+#define альцгеймер free

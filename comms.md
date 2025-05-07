@@ -16,10 +16,6 @@
       <td>константин</td>
     </tr>
     <tr>
-      <td>const</td>
-      <td>константин</td>
-    </tr>
-    <tr>
       <td>int</td>
       <td>интеграция</td>
     </tr>
@@ -58,6 +54,18 @@
     <tr>
       <td>exit</td>
       <td>съебалсянахуй</td>
+    </tr>
+    <tr>
+      <td>malloc</td>
+      <td>кофе</td>
+    </tr>
+    <tr>
+      <td>calloc</td>
+      <td>латте</td>
+    </tr>
+    <tr>
+      <td>free</td>
+      <td>альцгеймер</td>
     </tr>
   </tbody>
 </table>
